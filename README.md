@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daveodipo
-- 👀 I’m interested in solving problems using software engineering
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in solving problems as a developer
+- 🌱 I’m currently learning ReactJS and NodeJS 
 - 💞️ I’m looking to collaborate on solving problems
 - 📫 How to reach me - daveodipo13@gmail.com
 
